@@ -1,3 +1,6 @@
+“Hi, I’m DEL — a training consultant, university professional lecturer, and MSBA candidate.
+This portfolio showcases my work  from my previous company and currently HURIS and SkillSphere Consulting.”
+
 ## Portfolio Sections
 - [Soft Skills & Professional Development](01_Soft-Skills-Professional-Development/)
 - [Pharmaceutical Training & Specialization](02_Pharmaceutical-Training-and-Specialization/)
