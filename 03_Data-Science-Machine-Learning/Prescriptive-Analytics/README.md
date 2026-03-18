@@ -1,6 +1,6 @@
 # Prescriptive Analytics
 
-In this section, I focus on providing **analytical guidance** and actionable recommendations. As a **Subject Matter Expert (SME) in data analysis**, I help organizations integrate data-driven decision-making into their core projects [7, 8].
+In this section, I focus on providing **analytical guidance** and actionable recommendations. As a **Subject Matter Expert (SME) in data analysis**, I help organizations integrate data-driven decision-making into their core projects.
 
 ### Core Competencies:
 *   **Actionable Insights:** Translating complex model outputs into strategic evidence-based insights .
