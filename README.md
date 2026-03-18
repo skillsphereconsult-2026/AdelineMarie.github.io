@@ -24,7 +24,7 @@ I provide expert consultation in research and statistical analysis, bridging the
 ##  Soft Skills Training & Professional Development
 With over two decades of experience in leadership and communication training, I design and deliver customized programs that drive behavioral change and professional growth.
 
-*   **Global Reach:** Presented training initiatives and facilitated workshops at the **Servier Worldwide Training Convention in Paris, France**.
+*   **Global Reach:** Presented training initiatives and facilitated workshops at the **Servier Worldwide Training Convention in Paris, France and in the Asia Pacific during APAC Sectoral meetings**.
 *   **Specialized Modules:** Developed and rolled out competency-based training in **Leadership, Communication, Productivity, and Patient-Centered Communication**.
 *   **Sector Experience:** Extensive background in the pharmaceutical industry (Lundbeck, Servier, Glaxo), developing comprehensive educational modules for medical field forces and management.
 *   **Engaging Methodology:** Expert in using interactive technologies like **Mentimeter, Kahoot, and Pear Deck** to enhance learner engagement and effectiveness.
@@ -34,7 +34,7 @@ With over two decades of experience in leadership and communication training, I 
 ##  Technical Toolkit & Certifications
 **Analytics & Visualization:**
 *   Advanced Knowledge: **Power BI, R, Python**.
-*   Proficiency: **Microsoft Excel (Advanced)**, Powerpoint, Word, 
+*   Proficiency: **Microsoft Excel (Advanced)**, Powerpoint, Word
 
 **Training & Design:**
 *   **DDI Facilitator Certification**.
@@ -53,7 +53,7 @@ With over two decades of experience in leadership and communication training, I 
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 *   **Email:** Delobordo2017@gmail.com.
   
 
