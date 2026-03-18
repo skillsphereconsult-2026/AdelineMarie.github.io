@@ -1,4 +1,4 @@
-“Hi, I’m Adeline Marie — a training consultant, university professional lecturer, and MSBA candidate.
+“Hi, I’m Adeline Marie — a training consultant, university professional lecturer, and Master's in Bunisess Analytics candidate.
 This portfolio showcases my work  from my previous company and currently HURIS and SkillSphere Consulting.”
 
 ## Portfolio Sections
