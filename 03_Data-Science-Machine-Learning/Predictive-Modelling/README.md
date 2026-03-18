@@ -1,6 +1,6 @@
 # Predictive Modelling
 
-This section showcases my ability to use **Machine Learning algorithms** and statistical models to forecast future outcomes. This work validates my **Data Science/Machine Learning Certification** from the **UP National Engineering Center** [2, 3].
+This section showcases my ability to use **Machine Learning algorithms** and statistical models to forecast future outcomes. This work validates my **Data Science/Machine Learning Certification** from the **UP National Engineering Center and Masters in Business Anlytics** .
 
 ### Core Competencies:
 *   **Forecasting & Classification:** Developing models in **Python and R** to identify future trends and behaviors.
