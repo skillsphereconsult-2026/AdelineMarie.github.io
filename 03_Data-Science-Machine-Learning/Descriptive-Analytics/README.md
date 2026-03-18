@@ -1,0 +1,8 @@
+# Descriptive Analytics
+
+This subfolder focuses on **Exploratory Data Analysis (EDA)** and summarizing historical data to identify patterns and trends. This foundational work is critical for the "analysis of results" in any research consultation [4].
+
+### Core Competencies:
+*   **Data Cleaning & Visualization:** Leveraging **Power BI, R, and Python** to transform raw data into clear narratives [5, 6].
+*   **Statistical Summaries:** Applying my background as a **Professional Lecturer of Statistics** to ensure accurate data interpretation [6, 7].
+*   **Tool Proficiency:** Expert use of **Google Data Analytics** techniques and advanced **Excel** for business reporting [6].
