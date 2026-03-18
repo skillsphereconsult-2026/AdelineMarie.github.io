@@ -1,5 +1,5 @@
 “Hi, I’m Adeline Marie — a training consultant, university professional lecturer, and Master's in Bunisess Analytics candidate.
-This portfolio showcases my work  from my previous company and currently HURIS and SkillSphere Consulting.”
+This portfolio showcases my work  from my previous companies and currently HURIS and SkillSphere Consulting.”
 
 ## Portfolio Sections
 - [Soft Skills & Professional Development](01_Soft-Skills-Professional-Development/)
